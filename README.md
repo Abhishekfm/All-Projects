@@ -1,7 +1,7 @@
 
 # Project List
 
-A collection of 15 projects with their GitHub repository links and live links.
+A collection of projects with their GitHub repository links and live links.
 
 ### 01 Accordian
 - GitHub Repository: [Accordian Source Code](https://github.com/Abhishekfm/Accordion)
