@@ -68,7 +68,7 @@ A collection of 15 projects with their GitHub repository links and live links.
 - Live Link: [Project Live](https://project3.com)
 
 ---
-# **Projects In Word Document**
+# **Projects in Word Document**
 
 ### **1 Stop Watch**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/StopWatch)
@@ -118,54 +118,47 @@ A collection of 15 projects with their GitHub repository links and live links.
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/ShoppingCart)
 - Live Link: [Project Live](https://shopping-cart-by-abhishek.netlify.app)
 
-### **13 Expense Calculator**
-- GitHub Repository: [Project Repo](https://github.com/Abhishekfm/expense-tracker)
-- Live Link: [Project Live](https://expense-tracker-by-abhishek.netlify.app)
 
-### **14 BookMark App pending**
+### **13 FlashCard pending**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/A1-SeeWhatYouType)
 - Live Link: [Project Live](https://project3.com)
 
-### **15 FlashCard pending**
-- GitHub Repository: [Project Repo](https://github.com/Abhishekfm/A1-SeeWhatYouType)
-- Live Link: [Project Live](https://project3.com)
-
-### **16 Loan Calculator**
+### **14 Loan Calculator**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/Loan-Calculator)
 - Live Link: [Project Live](https://loan-calculator-by-abhishek.netlify.app)
 
-### **17 Copy To ClipBoard**
+### **15 Copy To ClipBoard**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/copy-to-clipboard)
 - Live Link: [Project Live](https://copy-to-clipboard-by-abhishek.netlify.app)
 
-### **18 Auto Complete**
+### **16 Auto Complete**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/auto-complete)
 - Live Link: [Project Live](https://auto-complete-by-abhishek.netlify.app)
 
-### **19 Color HexCode**
+### **17 Color HexCode**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/UI-Color-Picker)
 - Live Link: [Project Live](https://ui-color-picker-by-abhishek.netlify.app)
 
-### **20 Filter App**
+### **18 Filter App**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/Filter-app)
 - Live Link: [Project Live](https://filter-app-by-abhishek.netlify.app)
 
-### **21 Theme Changer**
+### **19 Theme Changer**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/Theme-changer)
 - Live Link: [Project Live](https://theme-changer-by-abhishek.netlify.app)
 
-### **22 Todo App**
+### **20 Todo App**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/todo-javascript)
 - Live Link: [Project Live](https://todo-javascript-by-abhishek.netlify.app)
 
-### **23 Music Player**
+### **21 Music Player**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/Music-Player)
 - Live Link: [Project Live](https://music-player-by-abhishek.netlify.app)
 
-### **24 Video Player**
+### **22 Video Player**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/Video-Player)
 - Live Link: [Project Live](https://video-player-by-abhishek.netlify.app)
 
-### **25 Budget App**
+### **23 Budget App**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/Budget-App)
 - Live Link: [Project Live](https://budget-app-by-abhishek.netlify.app)
