@@ -68,7 +68,7 @@ A collection of 15 projects with their GitHub repository links and live links.
 - Live Link: [Project Live](https://project3.com)
 
 ---
-# **Project Those in Word Document**
+# **Projects In Word Document**
 
 ### **1 Stop Watch**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/StopWatch)
