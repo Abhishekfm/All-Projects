@@ -1,5 +1,5 @@
 
-# Project List
+># **JavaScript Apps**
 
 A collection of 16 projects with their GitHub repository links and live links.
 

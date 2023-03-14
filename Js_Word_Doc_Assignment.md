@@ -1,4 +1,4 @@
-# **Projects in Word Document**
+># **FrontEnd Project**
 
 ### **1 Stop Watch**
 - GitHub Repository: [Project Repo](https://github.com/Abhishekfm/StopWatch)
